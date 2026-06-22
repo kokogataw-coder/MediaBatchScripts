@@ -1,4 +1,6 @@
-```                
+`$([Environment]::NewLine)
+[Support this project](https://yellowweb.top/donate)
+                
                     Bat Files for Media Processing
     _            __     __  _ _             __          __  _     
    | |           \ \   / / | | |            \ \        / / | |    
@@ -10,10 +12,9 @@
           |___/             https://yellowweb.top                 
 
 If you like these scripts, PLEASE DONATE!  
-USDT TRC20: TKeNEVndhPSKXuYmpEwF4fVtWUvfCnWmra
-Bitcoin: bc1qqv99jasckntqnk0pkjnrjtpwu0yurm0qd0gnqv  
-Ethereum: 0xBC118D3FDE78eE393A154C29A4545c575506ad6B  
-```
+`$([Environment]::NewLine)
+[Support this project](https://yellowweb.top/donate)
+
 # MediaBatchScripts
 
 Here are some scripts that may help you in your day to day work with landings and creatives.
